@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "C:/Users/User/Documents/projectmaps"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.env.windows": {
+      "PATH": "${env:PATH};C:\\flutter\\bin"
+    },
+    "dart.flutterSdkPath": "C:\\flutter",
+    "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk",
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
