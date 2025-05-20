@@ -1,16 +1,35 @@
-# geo
+# android-google-maps
 
-A new Flutter project.
+Projeto Android utilizando a Google Maps API para exibir mapas, marcar localizações e interagir com pontos de interesse.
 
-## Getting Started
+## Descrição
+Este projeto serve como base para aplicativos Android que necessitam de funcionalidades de mapas, como exibição de localizações, marcação de pontos e interação com o Google Maps. Ideal para estudos, demonstrações e como ponto de partida para projetos de localização.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+- Exibição de mapas utilizando Google Maps API
+- Marcação de localizações no mapa
+- Interação com pontos de interesse
+- Personalização de marcadores
 
-A few resources to get you started if this is your first Flutter project:
+## Pré-requisitos
+- Android Studio instalado
+- Conta Google para obter a chave da API do Google Maps
+- SDK Android atualizado
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como usar
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/Rebelo81/android-google-maps.git
+   ```
+2. Abra o projeto no Android Studio.
+3. Adicione sua chave da API do Google Maps no arquivo `google_maps_api.xml`.
+4. Execute o aplicativo em um emulador ou dispositivo físico.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como obter a chave da API do Google Maps
+- Siga a documentação oficial: https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+## Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
