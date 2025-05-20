@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # android-google-maps
 
 Projeto Android utilizando a Google Maps API para exibir mapas, marcar localizações e interagir com pontos de interesse.
@@ -33,3 +34,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+=======
+
+>>>>>>> 062095b7694d3bef2d8d5f2031596a08782a2999
